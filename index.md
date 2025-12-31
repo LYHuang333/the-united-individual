@@ -140,7 +140,7 @@ That is why this exploration begins here:
 **Let us first describe the problems many people are facing.  
 You can consider whether these reflect the society you observe.**
 
-👉 **[Begin with lived reality: is our society experiencing this?](./are-we-experiencing-this.en.md)**
+👉 **[Begin with lived reality: is our society experiencing this?](./are-we-experiencing-this.md)**
 
 ---
 
