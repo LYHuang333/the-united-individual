@@ -1,7 +1,12 @@
 # 我们的社会是否正在经历这些？
 ## ——从现实体验出发的第一步观察
 
-这一页尝试做的，只是
+---
+
+## 中文（默认语境）
+
+这一页并不是结论。  
+它尝试做的，只是一件很克制的事情：
 
 **描述。**
 
@@ -10,7 +15,7 @@
 
 ---
 
-## 一、一个被频繁提及的感受
+### 一、一个被频繁提及的感受
 
 在不同年龄、职业、城市与背景的人群中，  
 一种相似的感受正在不断被重复提起：
@@ -22,7 +27,7 @@
 
 ---
 
-## 二、一些反复出现的现实现象
+### 二、一些反复出现的现实现象
 
 以下并不是完整清单，  
 而是许多人在日常生活中反复提到的情况：
@@ -38,7 +43,7 @@
 
 ---
 
-## 三、努力仍然存在，但预期正在改变
+### 三、努力仍然存在，但预期正在改变
 
 一个值得注意的变化是：
 
@@ -56,7 +61,7 @@
 
 ---
 
-## 四、不同位置，不同承受方式
+### 四、不同位置，不同承受方式
 
 这些体验并非在社会中平均分布。
 
@@ -69,7 +74,7 @@
 
 ---
 
-## 五、当解释开始分化
+### 五、当解释开始分化
 
 当这些感受持续存在，却难以被清楚解释时，  
 社会中往往会出现多种理解路径：
@@ -79,14 +84,15 @@
 - 有人转向情绪化叙事或身份对立  
 - 也有人选择回避、收缩或防御  
 
-这些解释彼此冲突，但它们共享一个前提：  
+这些解释彼此冲突，但它们共享一个前提：
+
 **某种现实压力正在被感受到。**
 
 ---
 
-## 六、这一页的边界
+### 六、这一页的边界
 
-这一页**并不试图回答**：
+这一页并不试图回答：
 
 - 谁对谁错  
 - 哪种解释一定正确  
@@ -105,19 +111,19 @@
 
 ---
 
-## 下一步
+### 下一步
 
 如果这些现象确实存在，  
 那么一个更基础的问题是：
 
-这些现象的原因是什么？当然这个问题是众说纷纭的。
-适当的方法是从众说纷纭中找出正确的原因？
-如何从这些众说纷纭里找出正确的原因呢？
-首先得让持有各种观念的人和平相处。
-让持有不同观念的人不断的探讨比较，才可能找到相对正确的观念。所以，来到我们第一条的基础原则。
+> **这些现象的原因是什么？**
 
-> **在观念与现实高度分化的情况下，  
-> 我们如何在不彼此压倒的前提下继续共存？**
+对此，众说纷纭。  
+而在试图找出更合理的解释之前，  
+一个更基础的前提必须先被确立：
+
+> **持有不同观念的人，  
+> 是否能够在不彼此压倒的前提下继续共存？**
 
 👉 **[和而不同：一种现实共存机制](./harmony-in-difference.md)**
 
@@ -126,3 +132,141 @@
 > 本项目并不假设共识已经存在。  
 > 它尝试做的，是在确认现实之后，  
 > 再讨论是否可能建立最低限度的共存原则。
+
+---
+
+---
+
+## English (U.S. & European Context)
+
+# Is Our Society Experiencing This?
+## — A First Observation Based on Lived Reality
+
+This page does not present conclusions.  
+It attempts to do only one restrained thing:
+
+**Description.**
+
+It describes conditions that many people repeatedly mention and feel,  
+and invites you to compare these descriptions with what you observe and experience yourself.
+
+---
+
+### 1. A Frequently Repeated Feeling
+
+Across differences in age, occupation, city, and background,  
+a similar feeling is being voiced again and again:
+
+> **“I am putting in more effort, but my life does not seem to be getting better.”**
+
+This feeling does not always appear in the same words,  
+but it often accompanies similar real-world situations.
+
+---
+
+### 2. Recurrent Real-World Conditions
+
+The following is not a complete list.  
+It reflects situations that many people repeatedly mention in daily life and public discussion:
+
+- Working hours and competitive pressure continue to rise  
+- Income growth slows or stagnates  
+- Costs such as rent, housing, education, and healthcare remain rigid  
+- Long-term planning depends increasingly on external conditions rather than personal effort  
+- When job loss, business failure, or unexpected disruption occurs, recovery becomes significantly harder  
+
+You are not required to agree with all of these descriptions.  
+They are presented because they are widely mentioned and broadly observed.
+
+---
+
+### 3. Effort Remains, but Expectations Are Shifting
+
+One notable change stands out:
+
+**People have not stopped trying.  
+But expectations about whether effort is “worth it” are changing.**
+
+Many report that:
+
+- The relationship between effort and return feels less clear  
+- Risk is increasingly borne by individuals, with limited buffers  
+- Even without obvious mistakes, external changes can force setbacks  
+
+When such uncertainty persists,  
+people tend to adjust their behavior—not simply intensify effort.
+
+---
+
+### 4. Different Positions, Different Exposure
+
+These experiences are not evenly distributed across society.
+
+- Some are more directly exposed to market volatility  
+- Others have more stable lower bounds, but face tighter constraints  
+- The intensity differs, but the direction feels similar  
+
+This is not a judgment of right or wrong.  
+It is a description of **how risk moves and is distributed within society**.
+
+---
+
+### 5. When Explanations Begin to Diverge
+
+As these experiences persist without clear explanation,  
+multiple interpretive paths often emerge:
+
+- Some attribute the problem to capital and markets  
+- Some emphasize institutions, policies, or structural change  
+- Some turn toward emotional narratives or identity-based conflict  
+- Others withdraw, contract, or adopt defensive postures  
+
+These explanations may conflict with one another,  
+but they share a common premise:
+
+**A real pressure is being felt.**
+
+---
+
+### 6. The Boundary of This Page
+
+This page does **not** attempt to answer:
+
+- Who is right or wrong  
+- Which explanation is definitively correct  
+- What the ultimate root cause must be  
+
+It does only one thing:
+
+> **It asks whether there exists a widely felt condition  
+> that deserves further understanding.**
+
+If these descriptions do not match your observation,  
+you can stop here.
+
+If they resonate, even partially,  
+the next question naturally follows.
+
+---
+
+### Next Step
+
+If these conditions do exist,  
+a more basic question arises:
+
+> **What causes them?**
+
+There are many competing answers.  
+Before attempting to resolve them,  
+a more fundamental requirement must first be met:
+
+> **Can people holding different views  
+> continue to coexist without overpowering one another?**
+
+👉 **[Harmony in Difference: A Practical Mechanism for Coexistence](./harmony-in-difference.md)**
+
+---
+
+This project does not assume that common ground already exists.  
+It explores whether a minimal basis for coexistence  
+can be established before deeper disagreements are addressed.
