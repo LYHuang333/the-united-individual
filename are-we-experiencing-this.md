@@ -6,7 +6,7 @@
 ## 中文（默认语境）
 
 这一页并不是结论。  
-它尝试做的，只是一件很克制的事情：
+它尝试做的，只是一件克制而必要的事情：
 
 **描述。**
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 一、一个被频繁提及的感受
+## 一、一个被频繁提及的感受
 
 在不同年龄、职业、城市与背景的人群中，  
 一种相似的感受正在不断被重复提起：
@@ -27,10 +27,10 @@
 
 ---
 
-### 二、一些反复出现的现实现象
+## 二、一些反复出现的现实现象
 
 以下并不是完整清单，  
-而是许多人在日常生活中反复提到的情况：
+而是许多人在日常生活与公共讨论中反复提到的情况：
 
 - 工作时间和竞争强度持续上升  
 - 收入增长缓慢，甚至停滞  
@@ -39,11 +39,11 @@
 - 一旦失业、创业失败或遭遇变故，恢复难度显著增大  
 
 这些现象并不要求你全部认同。  
-它们只是被大量提及，并广泛存在于公共讨论中。
+它们之所以被列出，只因为它们被**大量提及，并反复出现**。
 
 ---
 
-### 三、努力仍然存在，但预期正在改变
+## 三、努力仍然存在，但预期正在改变
 
 一个值得注意的变化是：
 
@@ -57,24 +57,27 @@
 - 即使不犯错，也可能因为环境变化而被迫后退  
 
 当这种不确定性持续存在时，  
-个人往往会调整行为方式，而不是单纯“更努力”。
+个人往往会调整行为方式，  
+而不再单纯通过“更加努力”来应对。
 
 ---
 
-### 四、不同位置，不同承受方式
+## 四、不同位置，不同承受方式
 
 这些体验并非在社会中平均分布。
 
 - 有些人更直接暴露在市场波动之中  
 - 有些人拥有相对稳定的下限，但承受更多限制  
-- 痛感的强度不同，但方向相似  
+- 痛感的强度不同，但方向却高度相似  
 
-这并不是在区分对错，  
-而是在描述**风险如何在社会中流动与分配**。
+这并不是在区分对错或优劣，  
+而是在描述：
+
+> **风险如何在社会中流动、放大与分配。**
 
 ---
 
-### 五、当解释开始分化
+## 五、当解释开始分化
 
 当这些感受持续存在，却难以被清楚解释时，  
 社会中往往会出现多种理解路径：
@@ -84,13 +87,14 @@
 - 有人转向情绪化叙事或身份对立  
 - 也有人选择回避、收缩或防御  
 
-这些解释彼此冲突，但它们共享一个前提：
+这些解释彼此冲突，  
+但它们共享一个前提：
 
-**某种现实压力正在被感受到。**
+> **某种现实压力，正在被真实地感受到。**
 
 ---
 
-### 六、这一页的边界
+## 六、这一页的边界
 
 这一页并不试图回答：
 
@@ -98,32 +102,50 @@
 - 哪种解释一定正确  
 - 问题的最终根源是什么  
 
-它只做一件事：
+它只尝试确认一件事：
 
-> **确认：  
-> 是否存在一种被广泛感受到、值得进一步理解的现实处境。**
+> **是否存在一种被广泛感受到、  
+> 值得进一步理解与讨论的现实处境。**
 
 如果这些描述与你的观察并不相符，  
 你完全可以在这里停下。
 
 如果它们在某种程度上与你的经验产生了共鸣，  
-那么下一步的问题自然会出现。
+那么一个更基础的问题自然会出现。
 
 ---
 
-### 下一步
+## 七、为什么需要进入下一步？
 
 如果这些现象确实存在，  
-那么一个更基础的问题是：
+那么接下来的问题并不是立刻选定某种解释，而是：
 
 > **这些现象的原因是什么？**
 
-对此，众说纷纭。  
-而在试图找出更合理的解释之前，  
-一个更基础的前提必须先被确立：
+显然，对此是众说纷纭的。  
+不同的人、不同的群体，  
+会给出彼此差异很大的解释。
 
-> **持有不同观念的人，  
-> 是否能够在不彼此压倒的前提下继续共存？**
+但真正困难的问题并不是“存在分歧”，  
+而是：
+
+> **我们是否有一种方式，  
+> 能够从这些众说纷纭之中，  
+> 逐步找出更合理、相对更接近现实的解释？**
+
+如果这样的比较与筛选是可能的，  
+那么它显然无法通过压制某些观点来完成。
+
+恰恰相反，  
+它的前提只能是：
+
+> **让持有不同观念的人能够和平相处，  
+> 并在此基础上持续地探讨、比较与修正各自的理解。**
+
+也正因为如此，  
+我们来到这一探索的第一条基础原则。
+
+---
 
 👉 **[和而不同：一种现实共存机制](./harmony-in-difference.md)**
 
@@ -143,31 +165,31 @@
 ## — A First Observation Based on Lived Reality
 
 This page does not present conclusions.  
-It attempts to do only one restrained thing:
+It attempts to do one restrained but necessary thing:
 
 **Description.**
 
-It describes conditions that many people repeatedly mention and feel,  
-and invites you to compare these descriptions with what you observe and experience yourself.
+It describes conditions that many people repeatedly mention and experience,  
+and invites you to compare them with what you observe in your own life.
 
 ---
 
-### 1. A Frequently Repeated Feeling
+## 1. A Frequently Repeated Feeling
 
 Across differences in age, occupation, city, and background,  
-a similar feeling is being voiced again and again:
+a similar feeling is voiced again and again:
 
 > **“I am putting in more effort, but my life does not seem to be getting better.”**
 
 This feeling does not always appear in the same words,  
-but it often accompanies similar real-world situations.
+but it often accompanies similar lived conditions.
 
 ---
 
-### 2. Recurrent Real-World Conditions
+## 2. Recurrent Real-World Conditions
 
 The following is not a complete list.  
-It reflects situations that many people repeatedly mention in daily life and public discussion:
+It reflects situations repeatedly mentioned in everyday life and public discussion:
 
 - Working hours and competitive pressure continue to rise  
 - Income growth slows or stagnates  
@@ -175,14 +197,14 @@ It reflects situations that many people repeatedly mention in daily life and pub
 - Long-term planning depends increasingly on external conditions rather than personal effort  
 - When job loss, business failure, or unexpected disruption occurs, recovery becomes significantly harder  
 
-You are not required to agree with all of these descriptions.  
-They are presented because they are widely mentioned and broadly observed.
+These points do not require full agreement.  
+They are listed because they **appear repeatedly and across contexts**.
 
 ---
 
-### 3. Effort Remains, but Expectations Are Shifting
+## 3. Effort Remains, but Expectations Are Shifting
 
-One notable change stands out:
+One change is especially notable:
 
 **People have not stopped trying.  
 But expectations about whether effort is “worth it” are changing.**
@@ -191,44 +213,47 @@ Many report that:
 
 - The relationship between effort and return feels less clear  
 - Risk is increasingly borne by individuals, with limited buffers  
-- Even without obvious mistakes, external changes can force setbacks  
+- Even without clear mistakes, external shifts can force setbacks  
 
-When such uncertainty persists,  
-people tend to adjust their behavior—not simply intensify effort.
+When uncertainty persists,  
+people often adjust behavior,  
+rather than simply intensifying effort.
 
 ---
 
-### 4. Different Positions, Different Exposure
+## 4. Different Positions, Different Exposure
 
-These experiences are not evenly distributed across society.
+These experiences are not evenly distributed.
 
 - Some are more directly exposed to market volatility  
 - Others have more stable lower bounds, but face tighter constraints  
-- The intensity differs, but the direction feels similar  
+- The intensity differs, but the direction is often similar  
 
-This is not a judgment of right or wrong.  
-It is a description of **how risk moves and is distributed within society**.
+This is not a judgment of merit or fault.  
+It describes:
+
+> **How risk moves, concentrates, and amplifies within society.**
 
 ---
 
-### 5. When Explanations Begin to Diverge
+## 5. When Explanations Begin to Diverge
 
 As these experiences persist without clear explanation,  
-multiple interpretive paths often emerge:
+multiple interpretive paths tend to emerge:
 
-- Some attribute the problem to capital and markets  
-- Some emphasize institutions, policies, or structural change  
+- Some attribute the problem to markets or capital  
+- Some emphasize institutions, policy, or structural change  
 - Some turn toward emotional narratives or identity-based conflict  
 - Others withdraw, contract, or adopt defensive postures  
 
-These explanations may conflict with one another,  
+These explanations may conflict,  
 but they share a common premise:
 
-**A real pressure is being felt.**
+> **A real pressure is being felt.**
 
 ---
 
-### 6. The Boundary of This Page
+## 6. The Boundary of This Page
 
 This page does **not** attempt to answer:
 
@@ -236,37 +261,49 @@ This page does **not** attempt to answer:
 - Which explanation is definitively correct  
 - What the ultimate root cause must be  
 
-It does only one thing:
+It does one thing only:
 
-> **It asks whether there exists a widely felt condition  
-> that deserves further understanding.**
+> **It asks whether a broadly felt condition exists  
+> that warrants further understanding.**
 
 If these descriptions do not match your observation,  
-you can stop here.
+you may stop here.
 
 If they resonate, even partially,  
-the next question naturally follows.
+a more fundamental question naturally follows.
 
 ---
 
-### Next Step
+## 7. Why Move to the Next Step?
 
 If these conditions do exist,  
-a more basic question arises:
+the next question is not to immediately choose an explanation, but to ask:
 
-> **What causes them?**
+> **What causes these conditions?**
 
-There are many competing answers.  
-Before attempting to resolve them,  
-a more fundamental requirement must first be met:
+Clearly, answers to this question vary widely.
 
-> **Can people holding different views  
-> continue to coexist without overpowering one another?**
+The real challenge is not disagreement itself, but this:
+
+> **Is there a way to compare competing explanations  
+> and gradually approach those that better reflect reality?**
+
+Such comparison cannot occur through suppression.
+
+Instead, it requires a prior condition:
+
+> **People holding different views must be able to coexist,  
+> and to continue comparing, revising, and testing their understanding.**
+
+For this reason,  
+we arrive at the first foundational principle of this exploration.
+
+---
 
 👉 **[Harmony in Difference: A Practical Mechanism for Coexistence](./harmony-in-difference.md)**
 
 ---
 
-This project does not assume that common ground already exists.  
-It explores whether a minimal basis for coexistence  
-can be established before deeper disagreements are addressed.
+This project does not assume that consensus already exists.  
+It begins by acknowledging reality,  
+and only then asks whether minimal principles of coexistence can be established.
